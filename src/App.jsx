@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <span>subscribe Zainkeepscode</span>
+    <div className="App"> app </div>
   );
 }
 
