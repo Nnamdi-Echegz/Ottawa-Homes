@@ -77,6 +77,10 @@ a {
   color: orange;
   font-size: 0.9rem;
 }
+.secondaryTextTwo{
+  color: rgb(71, 67, 63);
+  font-size: 0.9rem;
+}
 .orangeText {
   color: orange;
   font-size: 1.5rem;
