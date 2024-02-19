@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Unlocking the door to your dream home just got easier with our exclusive access to the best interest rates available in Ottawa's real estate market. Our platform connects you with trusted lenders offering competitive rates, ensuring you secure a mortgage that aligns with your financial goals.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "By staying ahead of trends and analyzing key indicators, Ottawa Homes helps you navigate the market with confidence, ensuring your investments remain resilient in the face of changing economic factors.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      " Whether you're searching for your dream home or listing your property, our dedicated team here at Ottawa Homes strives to negotiate the most favorable terms on your behalf, ensuring you receive maximum value and satisfaction.",
   },
 ];
 export default data;
