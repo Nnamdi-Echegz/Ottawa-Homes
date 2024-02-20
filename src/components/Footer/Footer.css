@@ -1,0 +1,30 @@
+.footerlogo{
+    background: var(--blue-hero);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.f-container{
+    justify-content: space-between;
+}
+
+.f-left{
+    gap: 1rem;
+}
+
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+   
+}
+
+.f-wrapper{
+    background: rgb(196, 194, 194);
+    /**background: var(--lightBlue);*/
+    padding-top: 10px ;
+    padding-bottom: 15px;
+    border-top: 1px solid black;
+    
+}
+

@@ -1,5 +1,7 @@
 import React from "react";
 import './Header.css'
+import {BiMenuAltRight} from 'react-icons/bi'
+
 
 const Header = () => {
   return (
@@ -16,6 +18,9 @@ const Header = () => {
           <a href=""> Contact </a>
           </button>
         </div>
+      </div>
+      <div className="menu-icon">
+        <BiMenuAltRight size={30}/>
       </div>
     </section>
   );
