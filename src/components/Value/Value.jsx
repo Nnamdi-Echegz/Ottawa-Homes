@@ -13,7 +13,7 @@ import data from "../../utils/accordion";
 import "./Value.css";
 const Value = () => {
   return (
-    <section className="v-wrapper">
+    <section id="valuesSec" className="v-wrapper">
       <div className="paddings innerWidth flexCenter v-container">
         {/* left container */}
         <div className="v-left">
@@ -24,7 +24,7 @@ const Value = () => {
         {/** Right container */}
         <div className="flexColStart v-right">
           <span className="orangeText">Our Values</span>
-          <span className="primaryText">Value you expect to get from us</span>
+          <span className="primaryText">Values you expect to get from us</span>
           <span className="secondaryTextTwo">
             We are always ready to help by providing the best of services for
             you.

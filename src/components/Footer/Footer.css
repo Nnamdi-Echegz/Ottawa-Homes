@@ -20,11 +20,20 @@
 }
 
 .f-wrapper{
-    background: rgb(196, 194, 194);
-    /**background: var(--lightBlue);*/
+    background: rgb(216, 216, 216);
+    /* background: rgb(247, 233, 206); */
     padding-top: 10px ;
     padding-bottom: 15px;
     border-top: 1px solid black;
     
 }
 
+@media (max-width: 768px){
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+}
